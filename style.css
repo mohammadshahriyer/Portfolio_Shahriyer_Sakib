@@ -62,3 +62,21 @@ div{
     margin-top: auto;
     padding-top: 15 px;
 }
+h4{
+    color: orange;
+}
+.single-exp{
+    box-shadow:10px 10px 20px  dimgray;
+    border-radius: 5px;
+    height: 60%;
+}
+#co{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg,purple,blue) ;
+    border-image-slice: 1;
+}
+#gfx{
+    border-left: 7px solid;
+    border-image: linear-gradient (180deg, green, yellow ) ;
+    border-image-slice: 1;  
+}
