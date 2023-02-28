@@ -1,5 +1,6 @@
 body{
     margin: 0  ;
+    text-justify: unset;
 }
 h1{
     font-size: 50px;
@@ -26,8 +27,13 @@ width: 100%;
  }
  section{
     height: 500px;
+    padding-bottom: 150 px;
  }
-
+div{
+    height: 500px;
+    width: 300px;
+    
+}
 .button{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightsalmon, tomato);
@@ -36,7 +42,23 @@ width: 100%;
     color: white;
 
 }
+.middle-bannar{
+    width: fit-content;
+    padding-top: 50px;
+    background-image: url(BG_right.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+ 
+.ex-sec{
+    
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
     
 .footer{
     text-align: center;
+    margin-top: auto;
+    padding-top: 15 px;
 }
