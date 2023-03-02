@@ -1,6 +1,8 @@
 body{
     margin: 0  ;
     text-justify: unset;
+    font-family: 'Fira Sans', sans-serif;
+    
 }
 h1{
     font-size: 50px;
@@ -8,7 +10,7 @@ h1{
 .name{
     font-size: 50 px;
     color: orange;
-    font-family: 'Courgette', cursive;
+    font-family: 'Rubik Iso', cursive;
 }
 .half-width{
     width: 40%;
